@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitHub\\APS-Helper\\APSharp.csproj": {}
+  },
+  "projects": {
+    "D:\\GitHub\\APS-Helper\\APSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\APS-Helper\\APSharp.csproj",
+        "projectName": "APSharp",
+        "projectPath": "D:\\GitHub\\APS-Helper\\APSharp.csproj",
+        "packagesPath": "C:\\Users\\idfor\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\APS-Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\idfor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Contoso.Utility.UsefulStuff": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Figgle": {
+              "target": "Package",
+              "version": "[0.5.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

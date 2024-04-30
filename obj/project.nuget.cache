@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "vr+05UK1MKXlOuLNlDUVJNo2H1QUF51hdeOlcCt48IbvTy+rxrCt8JeAgCBWe10NDksWdK9N6Siy/0/pqvcU2A==",
+  "success": false,
+  "projectFilePath": "D:\\GitHub\\APS-Helper\\APSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\idfor\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package Contoso.Utility.UsefulStuff with version (>= 3.6.0)\r\n  - Found 1 version(s) in nuget.org [ Nearest version: 1.8.7 ]\r\n  - Found 0 version(s) in Microsoft Visual Studio Offline Packages",
+      "libraryId": "Contoso.Utility.UsefulStuff",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win",
+        ".NETFramework,Version=v4.6.1/win-x64",
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    }
+  ]
+}
