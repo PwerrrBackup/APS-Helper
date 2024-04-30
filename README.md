@@ -4,4 +4,4 @@ This is a fork of the C# rebuild of AP-DOS (originally built in Batch), a DOS-li
 
 APS-Helper (fork of APSharp) by Pwerrr__
 APSharp by Felixonite42__
-AP-DOS by Evening18__
+AP-DOS by Evening18
