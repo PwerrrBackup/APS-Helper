@@ -1,8 +1,9 @@
-# Warning
-This program isn't getting my support anymore, because I'm planning to port it in the Java language. Community may add features, but I won't develop it anymore.
+# Welcome to the APS-Helper
+This is a fork of the C# rebuild of AP-DOS (originally built in Batch), a DOS-like console based software.
 
-# Welcome to the APSharp
-This program is a C# rebuild of AP-DOS (built in Batch), a DOS-like console based software.
-
-APSharp written by Felixonite42, AP-DOS is a product of Evening18.
-
+APS-Helper (fork of APSharp) by Pwerrr
+-
+APSharp by Felixonite42, 
+-
+AP-DOS by Evening18.
+-
